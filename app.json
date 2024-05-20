@@ -12,7 +12,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.expo-51-react-three-fiber-crash"
     },
     "android": {
       "adaptiveIcon": {
